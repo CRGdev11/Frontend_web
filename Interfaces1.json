@@ -1,0 +1,20 @@
+[
+    {
+        "Dispositivo": "GigabitEthernet0/0/0",
+        "IP": "172.16.89.10",
+        "Activo": "YES",
+        "Localizacion": "NVRAM",
+        "Estado1": "up",
+        "Estado2": "up"
+    },
+
+    {
+        "Dispositivo": "GigabitEthernet0/0/1",
+        "IP": "172.16.89.11",
+        "Activo": "YES",
+        "Localizacion": "NVRAM",
+        "Estado1": "up",
+        "Estado2": "up"
+    }
+       
+]

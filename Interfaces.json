@@ -1,0 +1,26 @@
+{
+"stdout_lines": [[
+    "GigabitEthernet0/0/0 172.16.89.10 YES NVRAM up up ",
+    "GigabitEthernet0/0/4 unassigned YES unset up up ",
+    "Gi0/0/4.2101 172.16.86.5 YES NVRAM up up ",
+    "Gi0/0/4.2102 172.16.86.9 YES NVRAM up up ",
+    "Gi0/0/4.2103 172.16.86.13 YES NVRAM up up ",
+    "GigabitEthernet0/1/0 172.16.86.17 YES manual up up ",
+    "Te1/0/20 unassigned YES unset up up ",
+    "Te1/0/21 unassigned YES unset up up ",
+    "BDI10 172.17.20.161 YES NVRAM up up ",
+    "BDI196 142.147.196.1 YES NVRAM up up ",
+    "BDI201 172.16.86.29 YES manual up up ",
+    "BDI352 170.54.86.9 YES NVRAM up up ",
+    "BDI911 150.119.54.65 YES NVRAM up up ",
+    "BDI1611 10.87.3.254 YES NVRAM up up ",
+    "Loopback0 172.16.180.250 YES NVRAM up up ",
+    "Loopback10 172.16.181.250 YES NVRAM up up ",
+    "Port-channel10 unassigned YES unset up up"],
+
+    ["PE_SMR_1 uptime is 1 year, 18 weeks, 5 days, 2 hours, 50 minutes"]],
+
+"changed": false, "stdout": [
+    "GigabitEthernet0/0/0 172.16.89.10 YES NVRAM up up \nGigabitEthernet0/0/4 unassigned YES unset up up \nGi0/0/4.2101 172.16.86.5 YES NVRAM up up \nGi0/0/4.2102 172.16.86.9 YES NVRAM up up \nGi0/0/4.2103 172.16.86.13 YES NVRAM up up \nGigabitEthernet0/1/0 172.16.86.17 YES manual up up \nTe1/0/20 unassigned YES unset up up \nTe1/0/21 unassigned YES unset up up \nBDI10 172.17.20.161 YES NVRAM up up \nBDI196 142.147.196.1 YES NVRAM up up \nBDI201 172.16.86.29 YES manual up up \nBDI352 170.54.86.9 YES NVRAM up up \nBDI911 150.119.54.65 YES NVRAM up up \nBDI1611 10.87.3.254 YES NVRAM up up \nLoopback0 172.16.180.250 YES NVRAM up up \nLoopback10 172.16.181.250 YES NVRAM up up \nPort-channel10 unassigned YES unset up up",
+    "PE_SMR_1 uptime is 1 year, 18 weeks, 5 days, 2 hours, 50 minutes"],
+    "failed": false}
