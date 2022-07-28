@@ -6,7 +6,7 @@ function traerdatos()
 {
     //console.log('dentro de la funcion');
     const xhttp = new XMLHttpRequest();
-    xhttp.open('GET', 'Interfaces1.json',true);
+    xhttp.open('GET', 'Interfaces1.json',true); //Obtiene las 
 
     xhttp.send();
 
