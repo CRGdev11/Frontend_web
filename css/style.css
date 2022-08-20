@@ -191,20 +191,20 @@ header{
     cursor: pointer;
 }
 
-.texto1{
+.texto2{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
 }
 
-.cont-texto1{
+.cont-texto2{
     width: 30%;
     text-align: center;
     margin-bottom: 20px;
 }
 
-.cont-texto1 img{
+.cont-texto2 img{
     width: 80%;
     display: block;
     margin: 0 auto;   
