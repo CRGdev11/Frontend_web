@@ -4,12 +4,13 @@
     box-sizing: border-box;
 }
 
-body{
-    font-family: 'Open Sans', sans-serif;
-}
 
 :root{
     scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
 }
 
 .contenedor{
@@ -20,7 +21,7 @@ body{
     padding: 60px 0;
 }
 
-header{
+.header{
     height: 100vh;
     background-image: linear-gradient(-225deg, rgba(44, 216, 213, 0.494) 0%, rgba(107, 141, 214, 0.424) 48%, rgba(143, 55, 215, 0.438) 100%),
      url(../img/Torre_pemex.jpg);
@@ -181,6 +182,10 @@ header{
 
 .showImage{
     transform: scale(1);
+}
+
+.show{
+    transform: translate(0);
 }
 
 .close{
